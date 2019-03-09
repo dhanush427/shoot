@@ -15,7 +15,7 @@ class Player {
         this.y = window.innerHeight - 100;
         this.w = 50;
         this.h = 50;
-        this.health = 1000;
+        this.health = 100;
         this.dx = 0;
         this.dy = 0;
     }
